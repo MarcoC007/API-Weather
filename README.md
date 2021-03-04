@@ -12,7 +12,7 @@
 * Open Weather Map API
 
 ## Link
-[API Weather App]( https://marcoc007.github.io/API-Weather/.)
+[API Weather App]( https://marcoc007.github.io/API-Weather/)
 
 ## Screenshots
 
