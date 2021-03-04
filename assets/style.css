@@ -52,6 +52,7 @@ footer {
 }
 
 footer a {
+
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size:  20px;
     color: #FFFFFF;
@@ -64,4 +65,8 @@ footer a {
     font-size: 20px;
     color: #FFFFFF;
     padding-left: 40%;
+}
+
+.footer {
+    padding-top: 25%;
 }
